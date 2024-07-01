@@ -5,7 +5,7 @@
 I'm an aspiring AI and machine learning enthusiast currently studying Computer Science at Ton Duc Thang University. My primary interests lie in Natural Language Processing (NLP) and Computer Vision (CV). Additionally, I have experience in web development using technologies like Node.js, Java Spring Boot, and PHP Laravel.
 
 * 🌍 Based in Ho Chi Minh City
-* 🖥️ See my portfolio at [MY PORTFOLIO](maixuanha.id.vn/)
+* 🖥️ See my portfolio at [MY PORTFOLIO](http://maixuanha.id.vn/)
 * ✉️ Contact me at [maixuanhathm@gmail.com](mailto:maixuanhathm@gmail.com)
 * 🚀 Currently working at [FPT Telecom](http://fpt.vn/vi)
 
