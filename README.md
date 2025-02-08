@@ -8,7 +8,7 @@ I'm an aspiring AI and machine learning enthusiast currently studying Computer S
 * 🖥️ See my portfolio at [MY PORTFOLIO](http://maixuanha.id.vn/)
 * ✉️ Contact me at [maixuanhathm@gmail.com](mailto:maixuanhathm@gmail.com)
 * 🚀 Interned at [FPT Telecom](http://fpt.vn/vi)
-* 🚀 Working at [NCU Lab]([http://fpt.vn/vi](https://dlmsl.csie.ncu.edu.tw/))
+* 🚀 Working at [NCU Lab](https://dlmsl.csie.ncu.edu.tw)
 ### Skills
 
 <p align="left">
